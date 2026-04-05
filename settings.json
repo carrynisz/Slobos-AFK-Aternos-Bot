@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "Piździk",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "Bujny.aternos.me:43271",
+    "ip": "tapir.aternos.host:43271",
     "port": 43271,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
