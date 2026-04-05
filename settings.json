@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Bujny.aternos.me:43271",
+    "ip": "puppy.aternos.host:43271",
     "port": 43271,
     "version": "1.21.11",
     "try-creative": true
