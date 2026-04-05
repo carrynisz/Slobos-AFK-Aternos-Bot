@@ -6,16 +6,16 @@
     "type": "online"
   },
   "server": {
-    "ip": "puppy.aternos.host:43271",
-    "port": 43271,
+    "ip": "Bujny.aternos.me:43271",
+    "port": 43271",
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 100,
+    "y": 70,
+    "z": 100
   },
   "utils": {
     "auto-auth": {
