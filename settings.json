@@ -3,19 +3,19 @@
   "bot-account": {
     "username": "Piździk",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "Bujny.aternos.me:43271",
-    "port": 43271,
-    "version": "1.21.11",
+    "ip": "Szwar_CEN.aternos.me",
+    "port": 64823,
+    "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 60,
-    "y": 70,
-    "z": -157,
+    "x": 0,
+    "y": 100,
+    "z": 0,
   },
   "utils": {
     "auto-auth": {
